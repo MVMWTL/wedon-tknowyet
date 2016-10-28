@@ -1,4 +1,4 @@
 # We Don't Know
 
-* lists
+* list
 * lists
